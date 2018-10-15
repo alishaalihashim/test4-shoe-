@@ -1,0 +1,23 @@
+img{
+	width: 50%;
+}
+
+.paar{
+	font-weight: bold;
+}
+
+.link{
+	color: gray;
+}
+
+#b-1{
+	background-color: #dddddd;
+	border: none !important;
+	border-radius: none !important;
+}
+
+#b-2{
+	background-color: #ee5230;
+	border: none !important;
+	border-radius: none !important;
+}
